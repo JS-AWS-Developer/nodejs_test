@@ -1,1 +1,0 @@
-echo "<html><h1>Hello Qamar here.This is my web page!</h1></html>" > /var/www/html/index.html
